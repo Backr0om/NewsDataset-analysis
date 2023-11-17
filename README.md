@@ -19,8 +19,6 @@ To work you should have installed:
 * TensorFlow.keras con su libreria keras
 * textblob
 
-
-
 ### Instalación
 
 Use the requirements.txt from the repository.
@@ -28,8 +26,6 @@ Use the requirements.txt from the repository.
 ```
 pip install -r requirements.txt
 ```
-
-
 ## Autor
 
 * **Mario Javier Gonzalez Gil**
